@@ -1,5 +1,6 @@
 # sonde
 sondeur ultrason immergeable pour plongeur
+---
 la fonctionnalité est d'utiliser le dispositif en plongée pour faciliter la localisation d'une épave lorsque la visibilité est réduite.
 Après être arriver sur le fond, le plogeur ne voit pas l'épave car il est arrive à coté.
 La sonde est a utiliser horizontalement en faisant un tour de 360 °.
